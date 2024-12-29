@@ -1,0 +1,3490 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="stops" id="stops">
+	<SimpleField name="lines" type="string"></SimpleField>
+	<SimpleField name="is_train" type="string"></SimpleField>
+</Schema>
+<Folder><name>stops</name>
+  <Placemark>
+	<name>San Pedro Street</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.255505,34.026807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand / LATTC</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.269333,34.033155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pico</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.266118,34.040735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th Street / Metro Center Station - Metro A &amp; E Lines</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.258822,34.04861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LATTC / Ortho Institute</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.273603,34.029112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson / USC</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.278118,34.022123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Expo Park / USC</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.285734,34.018227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Expo / Vermont</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.29154,34.018245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Expo / Western</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.30891,34.018331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Expo / Crenshaw E-Line</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.335078,34.022526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farmdale</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.346095,34.023981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Expo / La Brea / Ethel Bradley</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.355159,34.024803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Cienega / Jefferson</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.37212,34.026355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Culver City</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.388986,34.027896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Palms</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.404255,34.029323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westwood / Rancho Park</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.424576,34.036816</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Hollywood</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.376808,34.168504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Universal / Studio City</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.362699,34.140002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / Highland</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.338549,34.101547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / Vine</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.32518,34.10163</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / Western</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.308117,34.101737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Sunset</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.291756,34.097708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Santa Monica</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.29173,34.08991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Beverly</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.291686,34.076526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Vermont</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.290082,34.062701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westlake / MacArthur Park</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.274879,34.056368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th Street / Metro Center Station - Metro B &amp; D Lines</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.258682,34.048634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pershing Square</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.251259,34.049316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Civic Center / Grand Park</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.246057,34.0549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station - Metro B &amp; D Lines</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.234249,34.056197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Normandie</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.301458,34.061753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Western</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.308756,34.061689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soto</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.210061,34.043747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mariachi Plaza / Boyle Heights</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.219648,34.047215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pico / Aliso</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.22594,34.047634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station - Metro A-Line</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.234759,34.056061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chinatown</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.23584,34.063861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lincoln Heights / Cypress Park</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.220429,34.080949</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Heritage Square / Arroyo</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.213213,34.087227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southwest Museum</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.206712,34.098243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highland Park</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.192606,34.111179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Pasadena</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.157886,34.115186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fillmore</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.148126,34.133521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Del Mar</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.148214,34.14191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leimert Park</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.332016,34.003909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martin Luther King Jr</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.335359,34.009563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Expo / Crenshaw K-Line</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.334851,34.022156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grand Ave Arts / Bunker Hill</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.251531,34.054724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Historic Broadway</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.246321,34.052156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Little Tokyo / Arts District</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.238757,34.048845</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson / 10th</name>
+	<name>0</name>
+	<description>209, 35</description>
+      <Point><coordinates>-118.328402,34.025471</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Riverside / Los Feliz</name>
+	<name>0</name>
+	<description>180, 217, 296</description>
+      <Point><coordinates>-118.271584,34.116566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams / Fairfax</name>
+	<name>0</name>
+	<description>105, 14, 217, 35</description>
+      <Point><coordinates>-118.370491,34.032361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams / Vermont</name>
+	<name>0</name>
+	<description>14, 204, 754</description>
+      <Point><coordinates>-118.291204,34.032672</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olive / Olympic</name>
+	<name>0</name>
+	<description>14, 78</description>
+      <Point><coordinates>-118.259555,34.042134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martin Luther King Jr / Arlington</name>
+	<name>0</name>
+	<description>102, 209, 40</description>
+      <Point><coordinates>-118.318462,34.010686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avalon / Vernon</name>
+	<name>0</name>
+	<description>105, 51</description>
+      <Point><coordinates>-118.265376,34.004085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burbank / Lankershim</name>
+	<name>0</name>
+	<description>152, 154, 224, 237</description>
+      <Point><coordinates>-118.379463,34.172303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beverly / Alvarado</name>
+	<name>0</name>
+	<description>14, 2</description>
+      <Point><coordinates>-118.270012,34.066696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Brea / Beverly</name>
+	<name>0</name>
+	<description>14, 212</description>
+      <Point><coordinates>-118.343896,34.075934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Normandie / Beverly</name>
+	<name>0</name>
+	<description>14, 206</description>
+      <Point><coordinates>-118.300274,34.076075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / Beverly</name>
+	<name>0</name>
+	<description>14, 207, 210</description>
+      <Point><coordinates>-118.308982,34.076055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Magnolia</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.254752,34.131082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Maple</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.254808,34.13863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Universal Studios</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.353066,34.132074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Wright</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.339502,34.119376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Regal</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.360846,34.134733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Oakcrest</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.34537,34.126449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Crescent</name>
+	<name>0</name>
+	<description>4, 617</description>
+      <Point><coordinates>-118.401651,34.072897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Barham</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.34745,34.128427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Broadlawn</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.355664,34.13297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Oakshire</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.350062,34.130549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central / 35th</name>
+	<name>0</name>
+	<description>102, 53</description>
+      <Point><coordinates>-118.256687,34.012161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Thomas</name>
+	<name>0</name>
+	<description>182, 45</description>
+      <Point><coordinates>-118.205062,34.073913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cesar E Chavez / Mission</name>
+	<name>0</name>
+	<description>106, 70, 78</description>
+      <Point><coordinates>-118.225238,34.054258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soto / Cesar E Chavez</name>
+	<name>0</name>
+	<description>251, 605, 70</description>
+      <Point><coordinates>-118.207521,34.046944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vernon / Hooper</name>
+	<name>0</name>
+	<description>102, 105</description>
+      <Point><coordinates>-118.251784,34.003774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Terrace / Herbert</name>
+	<name>0</name>
+	<description>106, 665</description>
+      <Point><coordinates>-118.183258,34.055609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Terrace / Rowan</name>
+	<name>0</name>
+	<description>106, 665</description>
+      <Point><coordinates>-118.187685,34.054456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Terrace / Pomeroy</name>
+	<name>0</name>
+	<description>106, 665</description>
+      <Point><coordinates>-118.188694,34.050902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Terrace / Van Pelt</name>
+	<name>0</name>
+	<description>106, 665</description>
+      <Point><coordinates>-118.176791,34.055902</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colorado / Ellenwood</name>
+	<name>0</name>
+	<description>180, 251, 81</description>
+      <Point><coordinates>-118.218777,34.139838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colorado / Eagle Rock</name>
+	<name>0</name>
+	<description>180, 251, 81</description>
+      <Point><coordinates>-118.214482,34.139316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colorado / El Rio</name>
+	<name>0</name>
+	<description>180, 251, 81</description>
+      <Point><coordinates>-118.216112,34.139607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compton / 46th</name>
+	<name>0</name>
+	<description>55, 611</description>
+      <Point><coordinates>-118.247915,34.001767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compton / 48th</name>
+	<name>0</name>
+	<description>55, 611</description>
+      <Point><coordinates>-118.247918,33.999487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compton / 51st</name>
+	<name>0</name>
+	<description>55, 611</description>
+      <Point><coordinates>-118.247913,33.996788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compton / 53rd</name>
+	<name>0</name>
+	<description>55, 611</description>
+      <Point><coordinates>-118.247603,33.994626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / Coliseum</name>
+	<name>0</name>
+	<description>209, 210</description>
+      <Point><coordinates>-118.334952,34.018517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / 48th</name>
+	<name>0</name>
+	<description>210, 40</description>
+      <Point><coordinates>-118.330613,34.000291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / 50th</name>
+	<name>0</name>
+	<description>210, 40</description>
+      <Point><coordinates>-118.330933,33.9979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / 52nd</name>
+	<name>0</name>
+	<description>210, 40</description>
+      <Point><coordinates>-118.330639,33.995257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / 54th</name>
+	<name>0</name>
+	<description>210, 40</description>
+      <Point><coordinates>-118.330642,33.993408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / Olympic</name>
+	<name>0</name>
+	<description>210, 28</description>
+      <Point><coordinates>-118.322936,34.054418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Crenshaw</name>
+	<name>0</name>
+	<description>20, 210, 720</description>
+      <Point><coordinates>-118.319614,34.061879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Griffin</name>
+	<name>0</name>
+	<description>182, 45</description>
+      <Point><coordinates>-118.211874,34.073566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Cypress</name>
+	<name>0</name>
+	<description>251, 81</description>
+      <Point><coordinates>-118.219059,34.086238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main / 11th</name>
+	<name>0</name>
+	<description>10, 30, 33, 55</description>
+      <Point><coordinates>-118.258176,34.039265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41st / Central</name>
+	<name>0</name>
+	<description>102, 53</description>
+      <Point><coordinates>-118.256163,34.009139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5th / Wall</name>
+	<name>0</name>
+	<description>16, 18, 53, 62</description>
+      <Point><coordinates>-118.245544,34.044875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Central</name>
+	<name>0</name>
+	<description>18, 720</description>
+      <Point><coordinates>-118.240745,34.039356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central / 6th</name>
+	<name>0</name>
+	<description>18, 53, 62, 720</description>
+      <Point><coordinates>-118.240145,34.038656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Main</name>
+	<name>0</name>
+	<description>20, 60, 720</description>
+      <Point><coordinates>-118.249763,34.045051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Towne</name>
+	<name>0</name>
+	<description>18, 53, 62</description>
+      <Point><coordinates>-118.243777,34.041238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Wall</name>
+	<name>0</name>
+	<description>18, 53, 62</description>
+      <Point><coordinates>-118.247325,34.043467</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th / Decatur</name>
+	<name>0</name>
+	<description>60, 62</description>
+      <Point><coordinates>-118.234847,34.034867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th / Maple</name>
+	<name>0</name>
+	<description>20, 35, 51, 60</description>
+      <Point><coordinates>-118.249036,34.042447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th / Alameda</name>
+	<name>0</name>
+	<description>60, 62</description>
+      <Point><coordinates>-118.238801,34.034977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th / Main</name>
+	<name>0</name>
+	<description>33, 35, 51, 55, 92</description>
+      <Point><coordinates>-118.25109,34.043894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th / San Pedro</name>
+	<name>0</name>
+	<description>51, 60</description>
+      <Point><coordinates>-118.246909,34.04097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9th / Main</name>
+	<name>0</name>
+	<description>10, 33, 55, 66, 92</description>
+      <Point><coordinates>-118.254855,34.041319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / 8th</name>
+	<name>0</name>
+	<description>35, 4, 45</description>
+      <Point><coordinates>-118.255203,34.043042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Pedro / 9th</name>
+	<name>0</name>
+	<description>51, 66</description>
+      <Point><coordinates>-118.250242,34.037556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams / Maple</name>
+	<name>0</name>
+	<description>10, 55</description>
+      <Point><coordinates>-118.265205,34.0232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central / Adams</name>
+	<name>0</name>
+	<description>53, 55</description>
+      <Point><coordinates>-118.254651,34.018928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Pedro / Adams</name>
+	<name>0</name>
+	<description>51, 55</description>
+      <Point><coordinates>-118.261363,34.021768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Westwood</name>
+	<name>0</name>
+	<description>20, 233, 720, 761</description>
+      <Point><coordinates>-118.443378,34.058801</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Adams</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.242011,34.146378</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Cedar</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.244086,34.146146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Chevy Chase</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.239796,34.146102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Glendale</name>
+	<name>0</name>
+	<description>180, 217, 90</description>
+      <Point><coordinates>-118.246916,34.146472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Jackson</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.249884,34.146213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Louise</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.252395,34.146189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Verdugo</name>
+	<name>0</name>
+	<description>180, 217, 251, 81</description>
+      <Point><coordinates>-118.235169,34.14604</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Wilshire</name>
+	<name>0</name>
+	<description>20, 4, 720</description>
+      <Point><coordinates>-118.411082,34.066771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valley / Marianna</name>
+	<name>0</name>
+	<description>665, 76</description>
+      <Point><coordinates>-118.178072,34.066944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Vicente / Gracie Allen</name>
+	<name>0</name>
+	<description>14, 16, 218, 617</description>
+      <Point><coordinates>-118.37843,34.074893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venice / Fairfax</name>
+	<name>0</name>
+	<description>105, 217, 33</description>
+      <Point><coordinates>-118.370155,34.039875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Sanborn</name>
+	<name>0</name>
+	<description>2, 4</description>
+      <Point><coordinates>-118.280777,34.092441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avalon / Jefferson</name>
+	<name>0</name>
+	<description>102, 51</description>
+      <Point><coordinates>-118.265423,34.014805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympic / Main</name>
+	<name>0</name>
+	<description>40, 45, 55, 92</description>
+      <Point><coordinates>-118.256598,34.040189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Compton / Vernon</name>
+	<name>0</name>
+	<description>105, 55, 611</description>
+      <Point><coordinates>-118.247597,34.003758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central / Vernon</name>
+	<name>0</name>
+	<description>105, 53</description>
+      <Point><coordinates>-118.256633,34.003439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main / Vernon</name>
+	<name>0</name>
+	<description>10, 105</description>
+      <Point><coordinates>-118.274129,34.003978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / York</name>
+	<name>0</name>
+	<description>182, 251</description>
+      <Point><coordinates>-118.220804,34.124317</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / El Paso</name>
+	<name>0</name>
+	<description>182, 251</description>
+      <Point><coordinates>-118.224037,34.122234</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / Merton</name>
+	<name>0</name>
+	<description>251, 81</description>
+      <Point><coordinates>-118.214261,34.137989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Verdugo</name>
+	<name>0</name>
+	<description>251, 90, 94</description>
+      <Point><coordinates>-118.238221,34.104659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / Avenue 36</name>
+	<name>0</name>
+	<description>182, 251</description>
+      <Point><coordinates>-118.234325,34.117183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / Avenue 40</name>
+	<name>0</name>
+	<description>182, 251</description>
+      <Point><coordinates>-118.228967,34.119889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / Avenue 41</name>
+	<name>0</name>
+	<description>182, 251</description>
+      <Point><coordinates>-118.227109,34.120775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / Yosemite</name>
+	<name>0</name>
+	<description>251, 81</description>
+      <Point><coordinates>-118.215466,34.13498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / 3rd</name>
+	<name>0</name>
+	<description>16, 217, 218</description>
+      <Point><coordinates>-118.361616,34.071224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Normandie / Exposition</name>
+	<name>0</name>
+	<description>102, 206</description>
+      <Point><coordinates>-118.300306,34.017872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Glenarm</name>
+	<name>0</name>
+	<description>260, 660</description>
+      <Point><coordinates>-118.150145,34.1278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Monterey</name>
+	<name>0</name>
+	<description>258, 260, 660</description>
+      <Point><coordinates>-118.150619,34.112013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Rollin</name>
+	<name>0</name>
+	<description>258, 260, 660</description>
+      <Point><coordinates>-118.150161,34.10901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Willoughby</name>
+	<name>0</name>
+	<description>217, 218</description>
+      <Point><coordinates>-118.361293,34.087509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Arroyo Glen</name>
+	<name>0</name>
+	<description>182, 81</description>
+      <Point><coordinates>-118.186219,34.113431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venice / Flower</name>
+	<name>0</name>
+	<description>33, 460, 81</description>
+      <Point><coordinates>-118.269064,34.036983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fletcher / Ripple</name>
+	<name>0</name>
+	<description>182, 603</description>
+      <Point><coordinates>-118.254462,34.107566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cesar E Chavez / Grand</name>
+	<name>0</name>
+	<description>4, 55, 60</description>
+      <Point><coordinates>-118.24398,34.060901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Brand</name>
+	<name>0</name>
+	<description>603, 92, 94</description>
+      <Point><coordinates>-118.254861,34.123517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Fountain</name>
+	<name>0</name>
+	<description>182, 2</description>
+      <Point><coordinates>-118.284208,34.096107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Future</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.234167,34.098503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Macon</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.235718,34.100341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cesar E Chavez / Gage</name>
+	<name>0</name>
+	<description>665, 70</description>
+      <Point><coordinates>-118.184379,34.040398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Arvia</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.231052,34.094802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marengo / Brittania</name>
+	<name>0</name>
+	<description>106, 251, 605</description>
+      <Point><coordinates>-118.20858,34.056997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Crescent Heights</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.364962,34.063245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / Venice</name>
+	<name>0</name>
+	<description>210, 33</description>
+      <Point><coordinates>-118.328455,34.044939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Vicente / Melrose</name>
+	<name>0</name>
+	<description>10, 16</description>
+      <Point><coordinates>-118.383173,34.081682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glendale / Locksley</name>
+	<name>0</name>
+	<description>182, 296, 92</description>
+      <Point><coordinates>-118.263142,34.106932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glendale / Berkeley</name>
+	<name>0</name>
+	<description>603, 92</description>
+      <Point><coordinates>-118.259839,34.083895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glendale / Clifford</name>
+	<name>0</name>
+	<description>603, 92</description>
+      <Point><coordinates>-118.25924,34.088661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glendale / Effie</name>
+	<name>0</name>
+	<description>603, 92</description>
+      <Point><coordinates>-118.259752,34.085602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glendale / Riverside</name>
+	<name>0</name>
+	<description>296, 92</description>
+      <Point><coordinates>-118.264906,34.111245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spring / 7th</name>
+	<name>0</name>
+	<description>28, 30, 33</description>
+      <Point><coordinates>-118.252932,34.043972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glendale / Waverly</name>
+	<name>0</name>
+	<description>296, 92</description>
+      <Point><coordinates>-118.2638,34.108186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Harbor Transitway / 37th St / USC</name>
+	<name>0</name>
+	<description>460, 910</description>
+      <Point><coordinates>-118.280305,34.017818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal 25</name>
+	<name>0</name>
+	<description>487, 53, 62</description>
+      <Point><coordinates>-118.251345,34.063887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hilgard / Charing Cross</name>
+	<name>0</name>
+	<description>2, 233, 761</description>
+      <Point><coordinates>-118.438891,34.077648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Wilton</name>
+	<name>0</name>
+	<description>20, 210</description>
+      <Point><coordinates>-118.314703,34.061584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill / 7th</name>
+	<name>0</name>
+	<description>10, 28, 4, 51, 81, 94</description>
+      <Point><coordinates>-118.254778,34.045759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson / Mc Clintock</name>
+	<name>0</name>
+	<description>35, 550</description>
+      <Point><coordinates>-118.287403,34.025394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill / Venice</name>
+	<name>0</name>
+	<description>33, 94</description>
+      <Point><coordinates>-118.264529,34.034893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holloway / Hancock</name>
+	<name>0</name>
+	<description>105, 16</description>
+      <Point><coordinates>-118.381622,34.09053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holloway / La Cienega</name>
+	<name>0</name>
+	<description>105, 16</description>
+      <Point><coordinates>-118.376489,34.090546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vernon / Arlington</name>
+	<name>0</name>
+	<description>105, 209</description>
+      <Point><coordinates>-118.318375,34.003581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / Bronson</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.318164,34.101562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / Edgemont</name>
+	<name>0</name>
+	<description>180, 206, 217</description>
+      <Point><coordinates>-118.295933,34.101643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / Normandie</name>
+	<name>0</name>
+	<description>180, 206, 217</description>
+      <Point><coordinates>-118.3007,34.101637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / Sycamore</name>
+	<name>0</name>
+	<description>212, 217</description>
+      <Point><coordinates>-118.343483,34.101438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / Wilton</name>
+	<name>0</name>
+	<description>180, 207, 217</description>
+      <Point><coordinates>-118.313464,34.101835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington / Monterey</name>
+	<name>0</name>
+	<description>179, 182, 665, 78</description>
+      <Point><coordinates>-118.186878,34.086198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington / Eastern</name>
+	<name>0</name>
+	<description>179, 665, 78</description>
+      <Point><coordinates>-118.17836,34.085873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington / Portola</name>
+	<name>0</name>
+	<description>179, 78</description>
+      <Point><coordinates>-118.172199,34.088484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington / Pueblo</name>
+	<name>0</name>
+	<description>179, 78</description>
+      <Point><coordinates>-118.174899,34.087343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington / Van Horne</name>
+	<name>0</name>
+	<description>179, 78</description>
+      <Point><coordinates>-118.170427,34.089067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Irolo / 8th</name>
+	<name>0</name>
+	<description>206, 66</description>
+      <Point><coordinates>-118.301001,34.057879</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maple / Jefferson</name>
+	<name>0</name>
+	<description>10, 102</description>
+      <Point><coordinates>-118.26941,34.017043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martin Luther King Jr / 4th</name>
+	<name>0</name>
+	<description>102, 40</description>
+      <Point><coordinates>-118.3216,34.010653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martin Luther King Jr / Gramercy</name>
+	<name>0</name>
+	<description>102, 40</description>
+      <Point><coordinates>-118.314134,34.010972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martin Luther King Jr / Normandie</name>
+	<name>0</name>
+	<description>206, 40</description>
+      <Point><coordinates>-118.300429,34.010738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martin Luther King Jr / Vermont</name>
+	<name>0</name>
+	<description>204, 40, 754</description>
+      <Point><coordinates>-118.291118,34.010753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Leimert / Sutro</name>
+	<name>0</name>
+	<description>102, 40</description>
+      <Point><coordinates>-118.323355,34.010561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Cloverdale</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.346336,34.062162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lankershim / Califa</name>
+	<name>0</name>
+	<description>152, 154, 224</description>
+      <Point><coordinates>-118.382049,34.177537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lankershim / Hatteras</name>
+	<name>0</name>
+	<description>152, 154, 224</description>
+      <Point><coordinates>-118.380943,34.175727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lankershim / Magnolia</name>
+	<name>0</name>
+	<description>155, 224, 501</description>
+      <Point><coordinates>-118.374577,34.165165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th / Imperial</name>
+	<name>0</name>
+	<description>60, 62</description>
+      <Point><coordinates>-118.231008,34.034696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lankershim / Oxnard</name>
+	<name>0</name>
+	<description>152, 154, 224</description>
+      <Point><coordinates>-118.383342,34.179677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lankershim / La Maida</name>
+	<name>0</name>
+	<description>224, 501</description>
+      <Point><coordinates>-118.371118,34.158847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Prospect</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.291612,34.101635</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le Conte / Gayley</name>
+	<name>0</name>
+	<description>2, 602</description>
+      <Point><coordinates>-118.447907,34.063582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Le Conte / Westwood</name>
+	<name>0</name>
+	<description>2, 233, 602, 761</description>
+      <Point><coordinates>-118.445005,34.063623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Angeles / Temple</name>
+	<name>0</name>
+	<description>106, 40</description>
+      <Point><coordinates>-118.240223,34.054231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / Arbolada</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.274794,34.115111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / Brunswick</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.265689,34.124831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / Glenfeliz</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.268193,34.123523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / Griffith Park</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.277062,34.113666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / Hillhurst</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.287554,34.111745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / Commonwealth</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.285395,34.112141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Los Feliz</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.291952,34.110798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / Revere</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.263502,34.125985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / Wayne</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.280754,34.113245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lankershim / Magnolia</name>
+	<name>0</name>
+	<description>224, 501</description>
+      <Point><coordinates>-118.374628,34.164687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main / 16th</name>
+	<name>0</name>
+	<description>10, 55</description>
+      <Point><coordinates>-118.262347,34.033659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maple Lot</name>
+	<name>0</name>
+	<description>16, 20, 33, 35, 460</description>
+      <Point><coordinates>-118.248198,34.042894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marengo / Cornwell</name>
+	<name>0</name>
+	<description>106, 251, 605</description>
+      <Point><coordinates>-118.205156,34.055791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marengo / Mission</name>
+	<name>0</name>
+	<description>106, 251, 605, 78</description>
+      <Point><coordinates>-118.214313,34.060326</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marengo / Soto</name>
+	<name>0</name>
+	<description>106, 605</description>
+      <Point><coordinates>-118.203058,34.054863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marengo / State</name>
+	<name>0</name>
+	<description>106, 251, 605</description>
+      <Point><coordinates>-118.209939,34.057871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rossmore / Melrose</name>
+	<name>0</name>
+	<description>10, 210</description>
+      <Point><coordinates>-118.326463,34.083349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Melrose / La Brea</name>
+	<name>0</name>
+	<description>10, 212</description>
+      <Point><coordinates>-118.344214,34.083327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Melrose / La Cienega</name>
+	<name>0</name>
+	<description>10, 105</description>
+      <Point><coordinates>-118.376678,34.081832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Normandie / Melrose</name>
+	<name>0</name>
+	<description>10, 206</description>
+      <Point><coordinates>-118.300327,34.083348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Melrose</name>
+	<name>0</name>
+	<description>10, 204, 754</description>
+      <Point><coordinates>-118.291552,34.083411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Century Park West / Santa Monica</name>
+	<name>0</name>
+	<description>28, 4</description>
+      <Point><coordinates>-118.421112,34.059077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Mission</name>
+	<name>0</name>
+	<description>260, 660</description>
+      <Point><coordinates>-118.150177,34.11613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main / Mission</name>
+	<name>0</name>
+	<description>76, 78</description>
+      <Point><coordinates>-118.205654,34.066009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Alvarado / Temple</name>
+	<name>0</name>
+	<description>10, 2</description>
+      <Point><coordinates>-118.268069,34.070479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Harvard</name>
+	<name>0</name>
+	<description>217, 92</description>
+      <Point><coordinates>-118.254836,34.1447</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Broadway</name>
+	<name>0</name>
+	<description>180, 217, 501, 92, 94</description>
+      <Point><coordinates>-118.255148,34.146013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Daly / Broadway</name>
+	<name>0</name>
+	<description>251, 45</description>
+      <Point><coordinates>-118.215774,34.073908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Eastlake</name>
+	<name>0</name>
+	<description>182, 45</description>
+      <Point><coordinates>-118.207944,34.073623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eastern / City Terrace</name>
+	<name>0</name>
+	<description>106, 258, 665</description>
+      <Point><coordinates>-118.172021,34.05786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eastern / Ramona</name>
+	<name>0</name>
+	<description>106, 258, 665</description>
+      <Point><coordinates>-118.172638,34.059367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beverly / Fairfax</name>
+	<name>0</name>
+	<description>14, 217, 218</description>
+      <Point><coordinates>-118.361091,34.075982</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Melrose / Fairfax</name>
+	<name>0</name>
+	<description>10, 217, 218</description>
+      <Point><coordinates>-118.361111,34.083698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Oakwood</name>
+	<name>0</name>
+	<description>217, 218</description>
+      <Point><coordinates>-118.361277,34.078493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Rosewood</name>
+	<name>0</name>
+	<description>217, 218</description>
+      <Point><coordinates>-118.361289,34.080458</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Santa Monica</name>
+	<name>0</name>
+	<description>217, 218, 4</description>
+      <Point><coordinates>-118.361318,34.091109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / 1st</name>
+	<name>0</name>
+	<description>217, 218</description>
+      <Point><coordinates>-118.361262,34.074176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Sunset</name>
+	<name>0</name>
+	<description>2, 217</description>
+      <Point><coordinates>-118.361384,34.097918</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Avenue 43</name>
+	<name>0</name>
+	<description>182, 81</description>
+      <Point><coordinates>-118.208551,34.094681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Avenue 50</name>
+	<name>0</name>
+	<description>182, 81</description>
+      <Point><coordinates>-118.20238,34.104933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Avenue 49</name>
+	<name>0</name>
+	<description>182, 81</description>
+      <Point><coordinates>-118.202915,34.10216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Avenue 52</name>
+	<name>0</name>
+	<description>182, 81</description>
+      <Point><coordinates>-118.199565,34.106103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Avenue 54</name>
+	<name>0</name>
+	<description>182, 81</description>
+      <Point><coordinates>-118.197265,34.107241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Temple / Figueroa</name>
+	<name>0</name>
+	<description>10, 55, 92</description>
+      <Point><coordinates>-118.248712,34.060238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Veteran</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.4483,34.057777</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill / Ord</name>
+	<name>0</name>
+	<description>81, 90, 94</description>
+      <Point><coordinates>-118.240249,34.060969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / La Brea</name>
+	<name>0</name>
+	<description>212, 4</description>
+      <Point><coordinates>-118.344297,34.090595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Brea / Sunset</name>
+	<name>0</name>
+	<description>2, 212</description>
+      <Point><coordinates>-118.343963,34.097784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / La Cienega</name>
+	<name>0</name>
+	<description>105, 4</description>
+      <Point><coordinates>-118.376081,34.08933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Angeles / Temple</name>
+	<name>0</name>
+	<description>106, 40</description>
+      <Point><coordinates>-118.240594,34.053599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Daly / Main</name>
+	<name>0</name>
+	<description>251, 76</description>
+      <Point><coordinates>-118.215594,34.066112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / San Fernando</name>
+	<name>0</name>
+	<description>501, 94</description>
+      <Point><coordinates>-118.27095,34.146892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission / Griffin</name>
+	<name>0</name>
+	<description>605, 78</description>
+      <Point><coordinates>-118.211605,34.062685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / San Fernando</name>
+	<name>0</name>
+	<description>501, 94</description>
+      <Point><coordinates>-118.271446,34.14663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission / Broadway</name>
+	<name>0</name>
+	<description>45, 78</description>
+      <Point><coordinates>-118.19676,34.073729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>740 Mission</name>
+	<name>0</name>
+	<description>106, 78</description>
+      <Point><coordinates>-118.220338,34.056418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Normandie</name>
+	<name>0</name>
+	<description>2, 206</description>
+      <Point><coordinates>-118.300347,34.098255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rossmore / Beverly</name>
+	<name>0</name>
+	<description>14, 210</description>
+      <Point><coordinates>-118.327004,34.076445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Division</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.236879,34.102194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Edward</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.243187,34.110793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Fletcher</name>
+	<name>0</name>
+	<description>182, 603, 90, 94</description>
+      <Point><coordinates>-118.24612,34.11495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Glendale Fwy</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.243596,34.11282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Hallett</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.241333,34.108354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Treadwell</name>
+	<name>0</name>
+	<description>603, 90, 94</description>
+      <Point><coordinates>-118.250587,34.119448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / San Vicente</name>
+	<name>0</name>
+	<description>105, 16, 4</description>
+      <Point><coordinates>-118.384397,34.084954</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soto / Sheridan</name>
+	<name>0</name>
+	<description>251, 605</description>
+      <Point><coordinates>-118.205852,34.050099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spring / Cesar E Chavez</name>
+	<name>0</name>
+	<description>28, 45, 70, 78</description>
+      <Point><coordinates>-118.240496,34.057309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Ambrose</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.291638,34.109809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Finley</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.291941,34.107827</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Franklin</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.291933,34.105541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Odin / Fairfield</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.335151,34.110219</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympic / Central</name>
+	<name>0</name>
+	<description>53, 66</description>
+      <Point><coordinates>-118.243856,34.03198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / Olympic</name>
+	<name>0</name>
+	<description>207, 28</description>
+      <Point><coordinates>-118.308901,34.053059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Normandie / Olympic</name>
+	<name>0</name>
+	<description>206, 28</description>
+      <Point><coordinates>-118.3001,34.052355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympic / Vermont</name>
+	<name>0</name>
+	<description>204, 28, 754</description>
+      <Point><coordinates>-118.291408,34.052366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Overhill / Northridge</name>
+	<name>0</name>
+	<description>102, 212</description>
+      <Point><coordinates>-118.355288,33.994055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Overhill / Stocker</name>
+	<name>0</name>
+	<description>102, 212</description>
+      <Point><coordinates>-118.357717,33.996562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympic / Alvarado</name>
+	<name>0</name>
+	<description>2, 28</description>
+      <Point><coordinates>-118.27962,34.051778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympic / Figueroa</name>
+	<name>0</name>
+	<description>28, 460, 81, 910</description>
+      <Point><coordinates>-118.264159,34.045185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission / Richmond</name>
+	<name>0</name>
+	<description>106, 78</description>
+      <Point><coordinates>-118.216415,34.058802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Riverside / Allesandro</name>
+	<name>0</name>
+	<description>296, 603</description>
+      <Point><coordinates>-118.250233,34.099702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Riverside / Fletcher</name>
+	<name>0</name>
+	<description>182, 296, 603</description>
+      <Point><coordinates>-118.256324,34.105883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Riverside / Gilroy</name>
+	<name>0</name>
+	<description>296, 603</description>
+      <Point><coordinates>-118.253302,34.104101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Riverside / Lankershim</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.366633,34.152383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Griffith Park / Los Feliz</name>
+	<name>0</name>
+	<description>180, 217, 296</description>
+      <Point><coordinates>-118.272005,34.117132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Riverside / Gleneden</name>
+	<name>0</name>
+	<description>296, 603</description>
+      <Point><coordinates>-118.251252,34.102275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoover / Alvarado</name>
+	<name>0</name>
+	<description>2, 603</description>
+      <Point><coordinates>-118.284316,34.045472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3rd / Alvarado</name>
+	<name>0</name>
+	<description>16, 2</description>
+      <Point><coordinates>-118.272965,34.063158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pico / Alvarado</name>
+	<name>0</name>
+	<description>2, 30</description>
+      <Point><coordinates>-118.282398,34.047271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympic / Flower</name>
+	<name>0</name>
+	<description>28, 460, 81, 910</description>
+      <Point><coordinates>-118.263004,34.044358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Chevy Chase</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.25477,34.133799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Colorado</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.25514,34.142366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Eulalia</name>
+	<name>0</name>
+	<description>92, 94</description>
+      <Point><coordinates>-118.254736,34.126858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Garfield</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.254789,34.135684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Colorado</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.254831,34.142856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Lomita</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.254825,34.14088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Los Feliz</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.255036,34.128811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Venice</name>
+	<name>0</name>
+	<description>33, 35, 4, 40, 45</description>
+      <Point><coordinates>-118.263539,34.033969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / 12th</name>
+	<name>0</name>
+	<description>30, 35, 4, 40, 45</description>
+      <Point><coordinates>-118.260255,34.037961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / 21st</name>
+	<name>0</name>
+	<description>40, 45</description>
+      <Point><coordinates>-118.267046,34.029233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / 30th</name>
+	<name>0</name>
+	<description>40, 45</description>
+      <Point><coordinates>-118.271509,34.022375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / 36th</name>
+	<name>0</name>
+	<description>40, 45</description>
+      <Point><coordinates>-118.275403,34.016329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / 38th</name>
+	<name>0</name>
+	<description>40, 45</description>
+      <Point><coordinates>-118.276772,34.014183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / 7th</name>
+	<name>0</name>
+	<description>30, 35, 40, 51</description>
+      <Point><coordinates>-118.25342,34.044985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Adams</name>
+	<name>0</name>
+	<description>40, 45</description>
+      <Point><coordinates>-118.269757,34.025575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Jefferson</name>
+	<name>0</name>
+	<description>102, 40, 45</description>
+      <Point><coordinates>-118.274052,34.018981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Olympic</name>
+	<name>0</name>
+	<description>30, 35, 4, 40, 45</description>
+      <Point><coordinates>-118.256654,34.041494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Pico</name>
+	<name>0</name>
+	<description>35, 4, 40</description>
+      <Point><coordinates>-118.261152,34.036907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5th / Central</name>
+	<name>0</name>
+	<description>18, 53, 62</description>
+      <Point><coordinates>-118.240125,34.042001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th / Central</name>
+	<name>0</name>
+	<description>53, 60, 62</description>
+      <Point><coordinates>-118.241014,34.036525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Bellevue</name>
+	<name>0</name>
+	<description>260, 660</description>
+      <Point><coordinates>-118.15024,34.13861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Raymond Hill</name>
+	<name>0</name>
+	<description>260, 660</description>
+      <Point><coordinates>-118.150118,34.123901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / San Vicente</name>
+	<name>0</name>
+	<description>217, 28</description>
+      <Point><coordinates>-118.363593,34.058985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Brea / Adams</name>
+	<name>0</name>
+	<description>14, 212</description>
+      <Point><coordinates>-118.351255,34.032227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39th / Figueroa</name>
+	<name>0</name>
+	<description>2, 550, 81</description>
+      <Point><coordinates>-118.282514,34.014145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Vernon</name>
+	<name>0</name>
+	<description>105, 81</description>
+      <Point><coordinates>-118.282544,34.003574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La General Medical Center</name>
+	<name>0</name>
+	<description>487, 910</description>
+      <Point><coordinates>-118.21099,34.055644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olive / Venice</name>
+	<name>0</name>
+	<description>14, 33, 70, 76, 78</description>
+      <Point><coordinates>-118.265404,34.035059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill / 11th</name>
+	<name>0</name>
+	<description>4, 94</description>
+      <Point><coordinates>-118.259809,34.039995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill / 12th</name>
+	<name>0</name>
+	<description>4, 94</description>
+      <Point><coordinates>-118.261418,34.038585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill / 14th</name>
+	<name>0</name>
+	<description>4, 94</description>
+      <Point><coordinates>-118.263425,34.036264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Alvarado</name>
+	<name>0</name>
+	<description>2, 4</description>
+      <Point><coordinates>-118.263769,34.077443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8th / Hill</name>
+	<name>0</name>
+	<description>10, 28, 4, 66, 81</description>
+      <Point><coordinates>-118.255561,34.044456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill / Olympic</name>
+	<name>0</name>
+	<description>4, 94</description>
+      <Point><coordinates>-118.258737,34.041457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill / Pico</name>
+	<name>0</name>
+	<description>30, 4, 94</description>
+      <Point><coordinates>-118.262167,34.037462</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23rd / Union</name>
+	<name>0</name>
+	<description>2, 603</description>
+      <Point><coordinates>-118.283617,34.034921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoover / Santa Monica Fwy</name>
+	<name>0</name>
+	<description>2, 603</description>
+      <Point><coordinates>-118.284151,34.036723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoover / 18th</name>
+	<name>0</name>
+	<description>2, 603</description>
+      <Point><coordinates>-118.283966,34.041562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoover / Adams</name>
+	<name>0</name>
+	<description>14, 2</description>
+      <Point><coordinates>-118.283821,34.031981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington / Hoover</name>
+	<name>0</name>
+	<description>2, 35, 603</description>
+      <Point><coordinates>-118.284297,34.039817</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Bixel</name>
+	<name>0</name>
+	<description>18, 20, 51</description>
+      <Point><coordinates>-118.261774,34.054044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Westwood</name>
+	<name>0</name>
+	<description>233, 4, 761</description>
+      <Point><coordinates>-118.437834,34.049871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venice / La Brea</name>
+	<name>0</name>
+	<description>212, 33</description>
+      <Point><coordinates>-118.345146,34.045791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Brea / 3rd</name>
+	<name>0</name>
+	<description>16, 212</description>
+      <Point><coordinates>-118.344165,34.069115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Brea / Olympic</name>
+	<name>0</name>
+	<description>212, 28</description>
+      <Point><coordinates>-118.34568,34.056987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington / La Brea</name>
+	<name>0</name>
+	<description>212, 35</description>
+      <Point><coordinates>-118.34776,34.040315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympic / La Cienega</name>
+	<name>0</name>
+	<description>105, 28</description>
+      <Point><coordinates>-118.375929,34.059356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5th / Main</name>
+	<name>0</name>
+	<description>20, 33, 720, 92</description>
+      <Point><coordinates>-118.248203,34.046606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main / Pico</name>
+	<name>0</name>
+	<description>10, 33, 55</description>
+      <Point><coordinates>-118.260335,34.036145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Normandie / Exposition</name>
+	<name>0</name>
+	<description>102, 206</description>
+      <Point><coordinates>-118.300062,34.018645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3rd / Normandie</name>
+	<name>0</name>
+	<description>16, 206</description>
+      <Point><coordinates>-118.300027,34.068906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams / Normandie</name>
+	<name>0</name>
+	<description>14, 206</description>
+      <Point><coordinates>-118.29999,34.03264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson / Normandie</name>
+	<name>0</name>
+	<description>206, 35</description>
+      <Point><coordinates>-118.300565,34.025645</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pico / Normandie</name>
+	<name>0</name>
+	<description>206, 30</description>
+      <Point><coordinates>-118.299749,34.047369</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Normandie / Venice</name>
+	<name>0</name>
+	<description>206, 33</description>
+      <Point><coordinates>-118.300359,34.043523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vernon / Normandie</name>
+	<name>0</name>
+	<description>105, 206</description>
+      <Point><coordinates>-118.299839,34.003584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Normandie / Washington</name>
+	<name>0</name>
+	<description>206, 35</description>
+      <Point><coordinates>-118.300505,34.040168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympic / Grand</name>
+	<name>0</name>
+	<description>14, 28, 70, 76, 78</description>
+      <Point><coordinates>-118.260684,34.043225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olive / 11th</name>
+	<name>0</name>
+	<description>70, 76, 78</description>
+      <Point><coordinates>-118.260936,34.04065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olive / 14th</name>
+	<name>0</name>
+	<description>70, 76, 78</description>
+      <Point><coordinates>-118.264293,34.036427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Vine</name>
+	<name>0</name>
+	<description>210, 4</description>
+      <Point><coordinates>-118.326329,34.090595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Robertson / Olympic</name>
+	<name>0</name>
+	<description>28, 617</description>
+      <Point><coordinates>-118.383763,34.059115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Spring</name>
+	<name>0</name>
+	<description>16, 18, 28, 30, 33, 53, 60, 92</description>
+      <Point><coordinates>-118.250749,34.045711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Venice</name>
+	<name>0</name>
+	<description>204, 33, 754</description>
+      <Point><coordinates>-118.291423,34.044523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / 36th</name>
+	<name>0</name>
+	<description>204, 550</description>
+      <Point><coordinates>-118.291382,34.02229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / 3rd</name>
+	<name>0</name>
+	<description>16, 204, 754</description>
+      <Point><coordinates>-118.2915,34.069334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / 8th</name>
+	<name>0</name>
+	<description>204, 66, 754</description>
+      <Point><coordinates>-118.291472,34.057625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Jefferson</name>
+	<name>0</name>
+	<description>204, 35, 550, 754</description>
+      <Point><coordinates>-118.291683,34.025235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Vernon</name>
+	<name>0</name>
+	<description>105, 204, 754</description>
+      <Point><coordinates>-118.291697,34.003871</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / 1st</name>
+	<name>0</name>
+	<description>207, 210</description>
+      <Point><coordinates>-118.308973,34.073574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / 2nd</name>
+	<name>0</name>
+	<description>207, 210</description>
+      <Point><coordinates>-118.309268,34.071295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / 3rd</name>
+	<name>0</name>
+	<description>16, 207, 210</description>
+      <Point><coordinates>-118.308951,34.068631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / 5th</name>
+	<name>0</name>
+	<description>207, 210</description>
+      <Point><coordinates>-118.309244,34.065495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / 8th</name>
+	<name>0</name>
+	<description>207, 66</description>
+      <Point><coordinates>-118.308914,34.057521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / Adams</name>
+	<name>0</name>
+	<description>14, 207</description>
+      <Point><coordinates>-118.30911,34.032872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / Jefferson</name>
+	<name>0</name>
+	<description>207, 35</description>
+      <Point><coordinates>-118.308745,34.025349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington / Western</name>
+	<name>0</name>
+	<description>207, 35</description>
+      <Point><coordinates>-118.308744,34.040075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Los Feliz</name>
+	<name>0</name>
+	<description>217, 603</description>
+      <Point><coordinates>-118.25921,34.128129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Avenue Of The Stars</name>
+	<name>0</name>
+	<description>28, 4</description>
+      <Point><coordinates>-118.417966,34.06154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Sunset</name>
+	<name>0</name>
+	<description>55, 60</description>
+      <Point><coordinates>-118.246436,34.062108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crescent Heights / Sunset</name>
+	<name>0</name>
+	<description>2, 218</description>
+      <Point><coordinates>-118.365575,34.097842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Do Not Announce This Stop!</name>
+	<name>0</name>
+	<description>10, 4</description>
+      <Point><coordinates>-118.382744,34.08552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Crescent Heights</name>
+	<name>0</name>
+	<description>218, 4</description>
+      <Point><coordinates>-118.365587,34.090656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Highland / Santa Monica</name>
+	<name>0</name>
+	<description>224, 4</description>
+      <Point><coordinates>-118.338439,34.091002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Highland</name>
+	<name>0</name>
+	<description>224, 4</description>
+      <Point><coordinates>-118.33819,34.090574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Vine</name>
+	<name>0</name>
+	<description>2, 210</description>
+      <Point><coordinates>-118.326983,34.098142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Terminal 28 - East Lot</name>
+	<name>0</name>
+	<description>603, 70, 76, 78, 81, 94</description>
+      <Point><coordinates>-118.264573,34.033195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venice / Hoover</name>
+	<name>0</name>
+	<description>2, 33, 603</description>
+      <Point><coordinates>-118.28363,34.043701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venice / Cadillac</name>
+	<name>0</name>
+	<description>105, 33</description>
+      <Point><coordinates>-118.373452,34.037529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Venice</name>
+	<name>0</name>
+	<description>105, 217, 33</description>
+      <Point><coordinates>-118.369461,34.039754</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / Venice</name>
+	<name>0</name>
+	<description>207, 33</description>
+      <Point><coordinates>-118.309164,34.043036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ventura / Vineland</name>
+	<name>0</name>
+	<description>155, 222, 240</description>
+      <Point><coordinates>-118.369819,34.140168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ventura / Tujunga</name>
+	<name>0</name>
+	<description>155, 240</description>
+      <Point><coordinates>-118.378575,34.139869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ventura / Eureka</name>
+	<name>0</name>
+	<description>155, 240</description>
+      <Point><coordinates>-118.376092,34.140399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / Verdugo</name>
+	<name>0</name>
+	<description>182, 251</description>
+      <Point><coordinates>-118.232151,34.118319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Melbourne</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.291927,34.103722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vineland / Burbank</name>
+	<name>0</name>
+	<description>154, 162, 90</description>
+      <Point><coordinates>-118.370115,34.171972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vineland / Chandler</name>
+	<name>0</name>
+	<description>154, 162, 90</description>
+      <Point><coordinates>-118.370125,34.168897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vineland / Hatteras</name>
+	<name>0</name>
+	<description>162, 90</description>
+      <Point><coordinates>-118.370112,34.175673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vineland / Oxnard</name>
+	<name>0</name>
+	<description>162, 90</description>
+      <Point><coordinates>-118.370114,34.1793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Cienega / 3rd</name>
+	<name>0</name>
+	<description>105, 14, 16, 218, 617</description>
+      <Point><coordinates>-118.376636,34.073195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3rd / Crescent Heights</name>
+	<name>0</name>
+	<description>16, 218</description>
+      <Point><coordinates>-118.365639,34.07224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3rd / Orlando</name>
+	<name>0</name>
+	<description>16, 218</description>
+      <Point><coordinates>-118.372833,34.072861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rampart / 3rd</name>
+	<name>0</name>
+	<description>16, 603</description>
+      <Point><coordinates>-118.2789,34.06644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3rd / Sweetzer</name>
+	<name>0</name>
+	<description>16, 218</description>
+      <Point><coordinates>-118.369825,34.072785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Bixel</name>
+	<name>0</name>
+	<description>18, 20</description>
+      <Point><coordinates>-118.262341,34.053999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Grand View</name>
+	<name>0</name>
+	<description>18, 603</description>
+      <Point><coordinates>-118.276845,34.060314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Park View</name>
+	<name>0</name>
+	<description>18, 603</description>
+      <Point><coordinates>-118.278281,34.061184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Rampart</name>
+	<name>0</name>
+	<description>18, 603</description>
+      <Point><coordinates>-118.281059,34.062425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Witmer</name>
+	<name>0</name>
+	<description>18, 20, 720</description>
+      <Point><coordinates>-118.265698,34.0557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Saint Paul</name>
+	<name>0</name>
+	<description>16, 18, 20</description>
+      <Point><coordinates>-118.261082,34.053487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8th / Hoover</name>
+	<name>0</name>
+	<description>603, 66</description>
+      <Point><coordinates>-118.283772,34.057432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9th / Broadway</name>
+	<name>0</name>
+	<description>10, 66</description>
+      <Point><coordinates>-118.25633,34.042361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9th / Grand</name>
+	<name>0</name>
+	<description>66, 81</description>
+      <Point><coordinates>-118.259526,34.044464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9th / Hope</name>
+	<name>0</name>
+	<description>66, 81</description>
+      <Point><coordinates>-118.260567,34.045135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hill / Adams</name>
+	<name>0</name>
+	<description>14, 55</description>
+      <Point><coordinates>-118.270557,34.026021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Adams / Hoover</name>
+	<name>0</name>
+	<description>14, 2</description>
+      <Point><coordinates>-118.283741,34.031489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue 26 / Idell</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.224854,34.08584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Central</name>
+	<name>0</name>
+	<description>180, 603, 94</description>
+      <Point><coordinates>-118.257572,34.146703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Pacific</name>
+	<name>0</name>
+	<description>501, 94</description>
+      <Point><coordinates>-118.263974,34.146692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson / Mc Clintock</name>
+	<name>0</name>
+	<description>35, 550</description>
+      <Point><coordinates>-118.286814,34.024857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson / Hoover</name>
+	<name>0</name>
+	<description>2, 35</description>
+      <Point><coordinates>-118.283393,34.023299</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson / Hoover</name>
+	<name>0</name>
+	<description>2, 35</description>
+      <Point><coordinates>-118.283797,34.023762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Olympic</name>
+	<name>0</name>
+	<description>217, 28</description>
+      <Point><coordinates>-118.363744,34.057923</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoover / Olympic</name>
+	<name>0</name>
+	<description>28, 603</description>
+      <Point><coordinates>-118.284306,34.052215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoover / Pico</name>
+	<name>0</name>
+	<description>30, 603</description>
+      <Point><coordinates>-118.28409,34.04708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pico / Vermont</name>
+	<name>0</name>
+	<description>204, 30, 754</description>
+      <Point><coordinates>-118.291756,34.047136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / Pico</name>
+	<name>0</name>
+	<description>207, 30</description>
+      <Point><coordinates>-118.309177,34.047345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Bellagio</name>
+	<name>0</name>
+	<description>233, 761</description>
+      <Point><coordinates>-118.454648,34.076757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Descanso</name>
+	<name>0</name>
+	<description>2, 4</description>
+      <Point><coordinates>-118.274834,34.085104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Lucile</name>
+	<name>0</name>
+	<description>2, 4</description>
+      <Point><coordinates>-118.278995,34.090917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Maltman</name>
+	<name>0</name>
+	<description>2, 4</description>
+      <Point><coordinates>-118.277108,34.08979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Micheltorena</name>
+	<name>0</name>
+	<description>2, 4</description>
+      <Point><coordinates>-118.275797,34.087806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Benton</name>
+	<name>0</name>
+	<description>2, 4</description>
+      <Point><coordinates>-118.270575,34.08055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Coronado</name>
+	<name>0</name>
+	<description>2, 4, 603</description>
+      <Point><coordinates>-118.268749,34.079526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Rosemont</name>
+	<name>0</name>
+	<description>2, 4, 603</description>
+      <Point><coordinates>-118.266201,34.07788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Clark</name>
+	<name>0</name>
+	<description>105, 16, 2</description>
+      <Point><coordinates>-118.385368,34.090771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Temple / Edgeware</name>
+	<name>0</name>
+	<description>10, 92</description>
+      <Point><coordinates>-118.254502,34.066403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Temple / Beaudry</name>
+	<name>0</name>
+	<description>10, 92</description>
+      <Point><coordinates>-118.251105,34.063145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Temple / Boylston</name>
+	<name>0</name>
+	<description>10, 92</description>
+      <Point><coordinates>-118.25246,34.064778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Temple / Rampart</name>
+	<name>0</name>
+	<description>10, 603</description>
+      <Point><coordinates>-118.274634,34.072594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington / Crenshaw</name>
+	<name>0</name>
+	<description>210, 35</description>
+      <Point><coordinates>-118.330729,34.039753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vermont / Washington</name>
+	<name>0</name>
+	<description>204, 35, 754</description>
+      <Point><coordinates>-118.291712,34.040206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / Adams</name>
+	<name>0</name>
+	<description>14, 210</description>
+      <Point><coordinates>-118.334742,34.0329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Soto / Wabash</name>
+	<name>0</name>
+	<description>106, 251, 605</description>
+      <Point><coordinates>-118.203899,34.053172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westwood / Lindbrook</name>
+	<name>0</name>
+	<description>233, 602, 761</description>
+      <Point><coordinates>-118.444369,34.059542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Crenshaw</name>
+	<name>0</name>
+	<description>210, 720</description>
+      <Point><coordinates>-118.318649,34.06159</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Beverly Glen</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.428968,34.066722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Coronado</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.281637,34.06047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Norton</name>
+	<name>0</name>
+	<description>20, 210</description>
+      <Point><coordinates>-118.316998,34.061578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Peck</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.403171,34.066952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Rexford</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.394317,34.067201</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Robertson</name>
+	<name>0</name>
+	<description>20, 617, 720</description>
+      <Point><coordinates>-118.382999,34.066762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Willaman</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.380305,34.066097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission / Workman</name>
+	<name>0</name>
+	<description>605, 78</description>
+      <Point><coordinates>-118.213573,34.061363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Parkman</name>
+	<name>0</name>
+	<description>2, 4</description>
+      <Point><coordinates>-118.273535,34.082956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Normandie</name>
+	<name>0</name>
+	<description>206, 4</description>
+      <Point><coordinates>-118.301091,34.090955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5th / Los Angeles</name>
+	<name>0</name>
+	<description>16, 18, 33, 460, 53, 60, 62</description>
+      <Point><coordinates>-118.247677,34.04625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington Fairfax Terminal</name>
+	<name>0</name>
+	<description>105, 14, 217, 35</description>
+      <Point><coordinates>-118.369075,34.035276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beverly / Van Ness</name>
+	<name>0</name>
+	<description>14, 210</description>
+      <Point><coordinates>-118.315545,34.076376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beverly / Wilton Pl</name>
+	<name>0</name>
+	<description>14, 210</description>
+      <Point><coordinates>-118.313326,34.076379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beverly / Windsor</name>
+	<name>0</name>
+	<description>14, 210</description>
+      <Point><coordinates>-118.319336,34.076355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beverwil / Olympic</name>
+	<name>0</name>
+	<description>28, 617</description>
+      <Point><coordinates>-118.399259,34.059498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Chevy Chase</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.255072,34.133249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Maple</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.255117,34.13808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venice / Cadillac</name>
+	<name>0</name>
+	<description>105, 33</description>
+      <Point><coordinates>-118.374132,34.037637</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Woodrow Wilson</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.342986,34.123683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2700 Cahuenga</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.337107,34.118553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / John Anson Ford Theatre</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.335714,34.114691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Lakeridge</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.342234,34.124128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Hillpark</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.33809,34.117413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cahuenga / Barham</name>
+	<name>0</name>
+	<description>222, 224</description>
+      <Point><coordinates>-118.34669,34.127784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Terrace / Miller</name>
+	<name>0</name>
+	<description>106, 665</description>
+      <Point><coordinates>-118.177995,34.055735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colorado / Figueroa</name>
+	<name>0</name>
+	<description>180, 81</description>
+      <Point><coordinates>-118.188015,34.138035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / 48th</name>
+	<name>0</name>
+	<description>210, 40</description>
+      <Point><coordinates>-118.330924,33.999744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / 52nd</name>
+	<name>0</name>
+	<description>210, 40</description>
+      <Point><coordinates>-118.330944,33.994707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5th / San Pedro</name>
+	<name>0</name>
+	<description>18, 53, 62, 720</description>
+      <Point><coordinates>-118.243627,34.044165</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5th / Towne</name>
+	<name>0</name>
+	<description>18, 53, 62</description>
+      <Point><coordinates>-118.241759,34.043025</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6th / Los Angeles</name>
+	<name>0</name>
+	<description>16, 18, 33, 460, 53, 62</description>
+      <Point><coordinates>-118.248787,34.044344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th / Main</name>
+	<name>0</name>
+	<description>35, 51</description>
+      <Point><coordinates>-118.251638,34.043939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7th / Santa Fe</name>
+	<name>0</name>
+	<description>60, 62</description>
+      <Point><coordinates>-118.230225,34.034422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / Glendale Fwy</name>
+	<name>0</name>
+	<description>182, 251</description>
+      <Point><coordinates>-118.232947,34.11823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / Chickasaw</name>
+	<name>0</name>
+	<description>251, 81</description>
+      <Point><coordinates>-118.214804,34.137205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eagle Rock / El Paso</name>
+	<name>0</name>
+	<description>182, 251</description>
+      <Point><coordinates>-118.224592,34.12226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Mound</name>
+	<name>0</name>
+	<description>260, 660</description>
+      <Point><coordinates>-118.150419,34.120276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Rollin</name>
+	<name>0</name>
+	<description>258, 260, 660</description>
+      <Point><coordinates>-118.150643,34.108683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Willoughby</name>
+	<name>0</name>
+	<description>217, 218</description>
+      <Point><coordinates>-118.361594,34.086959</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Martin Luther King Jr</name>
+	<name>0</name>
+	<description>2, 40, 81</description>
+      <Point><coordinates>-118.282887,34.011517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Venice</name>
+	<name>0</name>
+	<description>33, 460, 81</description>
+      <Point><coordinates>-118.270389,34.037235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glendale / Farwell</name>
+	<name>0</name>
+	<description>296, 92</description>
+      <Point><coordinates>-118.259635,34.105175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glendale / Branden</name>
+	<name>0</name>
+	<description>603, 92</description>
+      <Point><coordinates>-118.259648,34.08813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glendale / Effie</name>
+	<name>0</name>
+	<description>603, 92</description>
+      <Point><coordinates>-118.260031,34.085992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / La Brea</name>
+	<name>0</name>
+	<description>212, 217</description>
+      <Point><coordinates>-118.345049,34.101708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hilgard / Sunset</name>
+	<name>0</name>
+	<description>2, 233, 761</description>
+      <Point><coordinates>-118.439296,34.078001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hilgard / Westholme</name>
+	<name>0</name>
+	<description>2, 233, 761</description>
+      <Point><coordinates>-118.438855,34.069443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington / El Sereno</name>
+	<name>0</name>
+	<description>179, 665, 78</description>
+      <Point><coordinates>-118.17877,34.08623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington / Pueblo</name>
+	<name>0</name>
+	<description>179, 78</description>
+      <Point><coordinates>-118.174824,34.087849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington / Tampico</name>
+	<name>0</name>
+	<description>179, 78</description>
+      <Point><coordinates>-118.172702,34.088745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Martin Luther King Jr / Western</name>
+	<name>0</name>
+	<description>102, 207, 40</description>
+      <Point><coordinates>-118.309415,34.011004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lankershim / Vineland</name>
+	<name>0</name>
+	<description>224, 501</description>
+      <Point><coordinates>-118.370494,34.158352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / Griffith Park</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.276835,34.114076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marengo / Brittania</name>
+	<name>0</name>
+	<description>106, 605</description>
+      <Point><coordinates>-118.207312,34.056736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Mission</name>
+	<name>0</name>
+	<description>258, 260, 660</description>
+      <Point><coordinates>-118.150486,34.115577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / California</name>
+	<name>0</name>
+	<description>501, 92</description>
+      <Point><coordinates>-118.255162,34.149632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / California</name>
+	<name>0</name>
+	<description>501, 92</description>
+      <Point><coordinates>-118.254856,34.150182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Arcadia</name>
+	<name>0</name>
+	<description>28, 4, 45</description>
+      <Point><coordinates>-118.242212,34.056942</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Cesar E Chavez</name>
+	<name>0</name>
+	<description>28, 45</description>
+      <Point><coordinates>-118.240235,34.058276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Oakwood</name>
+	<name>0</name>
+	<description>217, 218</description>
+      <Point><coordinates>-118.361579,34.077943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairfax / Rosewood</name>
+	<name>0</name>
+	<description>217, 218</description>
+      <Point><coordinates>-118.36159,34.079908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Avenue 54</name>
+	<name>0</name>
+	<description>182, 81</description>
+      <Point><coordinates>-118.196767,34.107781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / Piedmont</name>
+	<name>0</name>
+	<description>182, 81</description>
+      <Point><coordinates>-118.186121,34.11392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Figueroa / York</name>
+	<name>0</name>
+	<description>182, 81</description>
+      <Point><coordinates>-118.185224,34.114795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>La Cienega / Beverly</name>
+	<name>0</name>
+	<description>105, 14, 617</description>
+      <Point><coordinates>-118.376729,34.075654</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mission / Baldwin</name>
+	<name>0</name>
+	<description>45, 78</description>
+      <Point><coordinates>-118.199238,34.070323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Edward</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.24308,34.110197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aliso / Los Angeles</name>
+	<name>0</name>
+	<description>487, 910</description>
+      <Point><coordinates>-118.23971,34.054881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Overhill / Northridge</name>
+	<name>0</name>
+	<description>102, 212</description>
+      <Point><coordinates>-118.355547,33.994524</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avalon / Vernon</name>
+	<name>0</name>
+	<description>105, 51</description>
+      <Point><coordinates>-118.265071,34.003687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beaudry / 4th</name>
+	<name>0</name>
+	<description>487, 53, 62</description>
+      <Point><coordinates>-118.257631,34.055339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Eulalia</name>
+	<name>0</name>
+	<description>92, 94</description>
+      <Point><coordinates>-118.255031,34.126308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brand / Lomita</name>
+	<name>0</name>
+	<description>217, 92, 94</description>
+      <Point><coordinates>-118.255127,34.14033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vernon / Broadway</name>
+	<name>0</name>
+	<description>105, 45</description>
+      <Point><coordinates>-118.278837,34.003931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Central / Americana</name>
+	<name>0</name>
+	<description>180, 603</description>
+      <Point><coordinates>-118.25805,34.14397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fair Oaks / Bellevue</name>
+	<name>0</name>
+	<description>260, 660</description>
+      <Point><coordinates>-118.15054,34.138156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venice / Grand</name>
+	<name>0</name>
+	<description>14, 33, 70, 76, 78</description>
+      <Point><coordinates>-118.266133,34.035744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoover / 18th</name>
+	<name>0</name>
+	<description>2, 603</description>
+      <Point><coordinates>-118.284271,34.041974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Venice / La Brea</name>
+	<name>0</name>
+	<description>212, 33</description>
+      <Point><coordinates>-118.345626,34.046122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main / 9th</name>
+	<name>0</name>
+	<description>10, 28, 30, 33</description>
+      <Point><coordinates>-118.255611,34.041362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Main / Pico</name>
+	<name>0</name>
+	<description>10, 30, 33</description>
+      <Point><coordinates>-118.260178,34.036791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spring / 7th</name>
+	<name>0</name>
+	<description>35, 40, 45, 55, 66, 92</description>
+      <Point><coordinates>-118.252563,34.044403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Spring / 9th</name>
+	<name>0</name>
+	<description>40, 45, 55, 92</description>
+      <Point><coordinates>-118.254314,34.042464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Jefferson / Western</name>
+	<name>0</name>
+	<description>207, 35</description>
+      <Point><coordinates>-118.309229,34.025694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Western / Vernon</name>
+	<name>0</name>
+	<description>105, 207</description>
+      <Point><coordinates>-118.309057,34.003363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Glendale</name>
+	<name>0</name>
+	<description>603, 90, 94</description>
+      <Point><coordinates>-118.253834,34.122532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / Avenue Of The Stars</name>
+	<name>0</name>
+	<description>28, 4</description>
+      <Point><coordinates>-118.4192,34.061214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Santa Monica / San Vicente</name>
+	<name>0</name>
+	<description>105, 16, 4</description>
+      <Point><coordinates>-118.38363,34.084912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vine / Santa Monica</name>
+	<name>0</name>
+	<description>210, 4</description>
+      <Point><coordinates>-118.326777,34.090951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Marengo / Cummings</name>
+	<name>0</name>
+	<description>106, 605</description>
+      <Point><coordinates>-118.206868,34.05625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoover / Venice</name>
+	<name>0</name>
+	<description>2, 603</description>
+      <Point><coordinates>-118.284268,34.043977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ventura / Vineland</name>
+	<name>0</name>
+	<description>155, 240</description>
+      <Point><coordinates>-118.370797,34.140833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ventura / Arch</name>
+	<name>0</name>
+	<description>155, 240</description>
+      <Point><coordinates>-118.373879,34.141967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ventura / Colfax</name>
+	<name>0</name>
+	<description>218, 230, 240</description>
+      <Point><coordinates>-118.387929,34.141535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ventura / Campo De Cahuenga</name>
+	<name>0</name>
+	<description>155, 222, 240</description>
+      <Point><coordinates>-118.367692,34.139623</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hollywood / New Hampshire</name>
+	<name>0</name>
+	<description>180, 206, 217</description>
+      <Point><coordinates>-118.293123,34.101911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17th / Broadway</name>
+	<name>0</name>
+	<description>33, 55</description>
+      <Point><coordinates>-118.264258,34.033624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3rd / Orlando</name>
+	<name>0</name>
+	<description>16, 218</description>
+      <Point><coordinates>-118.373446,34.073189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3rd / Sherbourne</name>
+	<name>0</name>
+	<description>218, 617</description>
+      <Point><coordinates>-118.379861,34.073718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5th / Flower</name>
+	<name>0</name>
+	<description>16, 18, 20, 487, 53, 55, 62</description>
+      <Point><coordinates>-118.255834,34.051564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8th / Broadway</name>
+	<name>0</name>
+	<description>10, 66</description>
+      <Point><coordinates>-118.254466,34.043736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hoover / 8th</name>
+	<name>0</name>
+	<description>603, 66</description>
+      <Point><coordinates>-118.284316,34.057952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Avenue 26 / Idell</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.224945,34.086301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olympic / Hill</name>
+	<name>0</name>
+	<description>28, 94</description>
+      <Point><coordinates>-118.258219,34.041628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olive / Olympic</name>
+	<name>0</name>
+	<description>70, 76</description>
+      <Point><coordinates>-118.259189,34.042533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / Pico</name>
+	<name>0</name>
+	<description>210, 30</description>
+      <Point><coordinates>-118.327023,34.047567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crenshaw / Pico</name>
+	<name>0</name>
+	<description>210, 30</description>
+      <Point><coordinates>-118.326405,34.048091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset / Hyperion</name>
+	<name>0</name>
+	<description>2, 4</description>
+      <Point><coordinates>-118.279844,34.092103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vernon / Western</name>
+	<name>0</name>
+	<description>105, 207</description>
+      <Point><coordinates>-118.308679,34.003848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington / Crenshaw</name>
+	<name>0</name>
+	<description>210, 35</description>
+      <Point><coordinates>-118.33139,34.040004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Washington / Fairfax</name>
+	<name>0</name>
+	<description>14, 217, 35</description>
+      <Point><coordinates>-118.369291,34.034824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Division 7 Layover</name>
+	<name>0</name>
+	<description>105, 16</description>
+      <Point><coordinates>-118.381842,34.084996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Westwood / Weyburn</name>
+	<name>0</name>
+	<description>2, 233, 602, 761</description>
+      <Point><coordinates>-118.445519,34.062714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Beverly Glen</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.428689,34.067136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Norton</name>
+	<name>0</name>
+	<description>20, 210</description>
+      <Point><coordinates>-118.316424,34.061832</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Robertson</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.384269,34.067186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Rodeo</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.40182,34.067217</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilshire / Santa Monica</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.408981,34.06722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Veteran Federal Building</name>
+	<name>0</name>
+	<description>20, 720</description>
+      <Point><coordinates>-118.447281,34.057022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / 7th</name>
+	<name>0</name>
+	<description>4, 45</description>
+      <Point><coordinates>-118.252927,34.045509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fletcher / La Clede</name>
+	<name>0</name>
+	<description>182, 603</description>
+      <Point><coordinates>-118.249048,34.112139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Pepper</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.22623,34.089027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Fernando / Loosmore</name>
+	<name>0</name>
+	<description>90, 94</description>
+      <Point><coordinates>-118.228216,34.091868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Feliz / San Fernando</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.258604,34.128782</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Pico</name>
+	<name>0</name>
+	<description>30, 45</description>
+      <Point><coordinates>-118.260807,34.037328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Martin Luther King Jr</name>
+	<name>0</name>
+	<description>40, 45</description>
+      <Point><coordinates>-118.278185,34.011355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Galleria</name>
+	<name>0</name>
+	<description>603, 94</description>
+      <Point><coordinates>-118.259665,34.146712</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fletcher / Larga</name>
+	<name>0</name>
+	<description>182, 603</description>
+      <Point><coordinates>-118.251408,34.110158</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beverly / Larchmont</name>
+	<name>0</name>
+	<description>14, 210</description>
+      <Point><coordinates>-118.323883,34.076354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beverly / Larchmont</name>
+	<name>0</name>
+	<description>14, 210</description>
+      <Point><coordinates>-118.323387,34.076103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City Terrace / Hazard</name>
+	<name>0</name>
+	<description>106, 665</description>
+      <Point><coordinates>-118.178612,34.055575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colorado / Campus</name>
+	<name>0</name>
+	<description>251, 81</description>
+      <Point><coordinates>-118.231406,34.142892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Colorado / Verdugo</name>
+	<name>0</name>
+	<description>217, 251, 81</description>
+      <Point><coordinates>-118.233838,34.142882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Broadway / Verdugo</name>
+	<name>0</name>
+	<description>180, 217</description>
+      <Point><coordinates>-118.235609,34.146314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington / Collis</name>
+	<name>0</name>
+	<description>179, 665, 78</description>
+      <Point><coordinates>-118.183982,34.086205</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
