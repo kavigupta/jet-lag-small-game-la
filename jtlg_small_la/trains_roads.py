@@ -5,8 +5,27 @@ import zipfile
 import geopandas as gpd
 import numpy as np
 import pandas as pd
+from shapely import Polygon
 
 from jtlg_small_la.stops import compute_stops
+
+def railyard():
+    #top/left is union
+    top = 34.0559745
+    left = -118.2346249
+    # bot/right is picked arbitrarily
+    bot = 34.035065
+    right = -118.226147
+    return Polygon(
+        (
+            (left, bot),
+            (left, top),
+            (right, top),
+            (right, bot),
+            (left, bot),
+        )
+    )
+
 
 def load_trains():
     layers = {
@@ -22,7 +41,10 @@ def load_trains():
         table["line"] = layers[layer]
         table = table.to_crs("epsg:4326")
         results.append(table)
-    return gpd.GeoDataFrame(pd.concat(results))
+    trains = gpd.GeoDataFrame(pd.concat(results))
+    railyard_mask = trains.geometry.apply(railyard().contains) & (trains.line == "B/D")
+    trains = trains[~railyard_mask]
+    return trains
 
 def load_buses():
     stops = compute_stops()
