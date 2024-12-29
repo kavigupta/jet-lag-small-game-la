@@ -3486,5 +3486,11 @@
 	<description>179, 665, 78</description>
       <Point><coordinates>-118.183982,34.086205</coordinates></Point>
   </Placemark>
+  <Placemark>
+	<name>Metrolink Glendale</name>
+	<name>1</name>
+	<description>train</description>
+      <Point><coordinates>-118.25909547331,34.1235731465458</coordinates></Point>
+  </Placemark>
 </Folder>
 </Document></kml>

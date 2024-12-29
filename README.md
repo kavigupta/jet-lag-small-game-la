@@ -28,4 +28,5 @@ Bus stops serving lines (StopsServingLines1224.zip): https://developer.metro.net
 Train stops (230711_All_MetroRail_Stations.zip): https://developer.metro.net/gis-data/
 
 Train lines (202307-All-Rail-Lines-Combined.zip): https://developer.metro.net/gis-data/
+Bus lines (Individuals1224.zip) https://developer.metro.net/gis-data/
 Roads (tl_2018_06037_roads.zip): https://catalog.data.gov/dataset/tiger-line-shapefile-2018-county-los-angeles-county-ca-all-roads-county-based-shapefile
