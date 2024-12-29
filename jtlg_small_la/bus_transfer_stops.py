@@ -3,12 +3,9 @@ import geopandas as gpd
 import tqdm
 import networkx as nx
 
-# from permacache import permacache
-
 from jtlg_small_la.geo import distances
 
 
-# @permacache("jtla_small_la/bus_transfer_stops/bus_transfer_stops_3")
 def bus_transfer_stops():
     stops = gpd.read_file("./data/StopServingLines1224.zip")
     lat, lon = np.array(stops.LAT), np.array(stops.LONG)

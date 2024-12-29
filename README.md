@@ -4,6 +4,8 @@ Designed by Avery and Kavi.
 
 ## Shapefile sources
 
+Boundary (JLTG Home Game Los Angeles - Small.kml): Avery hand drew this boundary.
+
 CA CDPs (ca_places.zip): https://data.ca.gov/dataset/ca-geographic-boundaries
 LA neighborhoods (LA_Times_Neighborhood_Boundaries.geojson): https://geohub.lacity.org/maps/la-times-neighborhood-boundaries
 
