@@ -2,6 +2,13 @@
 
 Designed by Kavi and Avery for the Jet Lag Home Game, small gamemode.
 
+## Resources
+
+- [Zoomable SVG map](https://raw.githubusercontent.com/kavigupta/jet-lag-small-game-la/main/print-map.svg)
+- [Printable PDF map](https://raw.githubusercontent.com/kavigupta/jet-lag-small-game-la/main/print-map.pdf). This
+    map should be printed on two side-by-side 8.5x11 sheets of paper, each in portrait mode.
+- [Google My Maps](https://www.google.com/maps/d/edit?mid=1BKx9rX0BonyyMdFFSdzmTasXtM5NeZE&usp=sharing)
+
 ## Design Choices
 
 We decided to include all train stops, as well as Metro bus stops with at least two distinct lines that are not within a train station hiding zone.
