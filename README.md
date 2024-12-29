@@ -2,6 +2,8 @@
 
 Designed by Kavi and Avery for the Jet Lag Home Game, small gamemode.
 
+[![Map](https://raw.githubusercontent.com/kavigupta/jet-lag-small-game-la/main/print-map.svg)](https://raw.githubusercontent.com/kavigupta/jet-lag-small-game-la/main/print-map.svg)
+
 ## Resources
 
 - [Zoomable SVG map](https://raw.githubusercontent.com/kavigupta/jet-lag-small-game-la/main/print-map.svg)
